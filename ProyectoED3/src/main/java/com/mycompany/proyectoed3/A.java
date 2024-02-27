@@ -17,6 +17,7 @@ public class A
     public A(int at1) 
     {
         this.at1 = at1;
+       
     }
 
     public int getAt1() 
