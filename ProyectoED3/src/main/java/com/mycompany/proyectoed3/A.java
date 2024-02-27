@@ -12,6 +12,8 @@ import java.util.logging.Logger;
  */
 public class A 
 {
+    //Nuevo cambio
+    
     public int at1;
 
     public A(int at1) 
